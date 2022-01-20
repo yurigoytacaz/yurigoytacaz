@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://github.com/yurigoytacaz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurigoytacaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  style="max-width: 100%;" height="180em" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigoytacaz&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;" height="180em" />
+    <img height="166px" src="https://github-readme-stats.vercel.app/api?username=yurigoytacaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  style="max-width: 100%;" />
+    <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigoytacaz&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;" />
 </div>
  
   
