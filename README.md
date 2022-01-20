@@ -23,3 +23,4 @@
 
 </div>
   
+![snake-gif](https://github.com/yurigoytacaz/yurigoytacaz/blob/output/github-contribution-grid-snake.svg)
